@@ -52,15 +52,6 @@ git clone https://github.com/PrinceSagwal/Simon-Says-Game.git
 
 8. Clicking the wrong button ends the game.
 
-## 📸 Preview
-
-> Add a screenshot or GIF of your game here.
-
-Example:
-
-```
-assets/screenshot.png
-```
 
 ## 📈 Future Improvements
 
